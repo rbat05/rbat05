@@ -49,12 +49,6 @@ A solar-powered weather station with an indoor head unit and a web server for di
 
 ---
 
-## 🌟 About Me
-
-- 🔭 I’m currently working on **innovative hardware and software projects**
-- 🌱 I’m currently learning **advanced IoT systems and embedded programming**
-- 💬 Ask me about **Raspberry Pi, ESP32, and 3D printing**
-
 ## 🌐 Connect with Me
 
 I am always open to new ideas and collaborations. Feel free to [reach out](https://www.linkedin.com/in/raaghav-batra-73405b317/) if you have any questions, suggestions, or just want to chat about technology!
