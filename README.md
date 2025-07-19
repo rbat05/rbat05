@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate mechatronics engineering student and a maker who loves building innovative solutions and sharing my projects with the world.
 
+Visit my website -> [raaghavbatra.com](https://raaghavbatra.com)
+
 Here are some of my favorite projects:
 ## Featured Projects
 
